@@ -1,3 +1,9 @@
+# authors: Congzhe Cao, email:congzhe@ualberta.ca
+#          Duanshun Li, email:duanshun@ualberta.ca
+# This is the code repo for the paper "Deep-learning based decoding of constrained sequence codes",
+# in IEEE Journal on Selected Areas in Communications, https://ieeexplore.ieee.org/document/8792188.
+# Credit is also given to Tobias Gruber et al and their github repo https://github.com/gruberto/DL-ChannelDecoding,
+# where this code repo is initially partly written based on theirs.
 #!/usr/bin/env python
 
 import numpy as np
