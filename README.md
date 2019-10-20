@@ -2,6 +2,7 @@
 ============================
 
 This repo contains the code and data for [Deep-learning-based-decoding-of-constrained-sequence-codes](https://ieeexplore.ieee.org/abstract/document/8792188) by [Congzhe Cao](https://scholar.google.ca/citations?user=lWZ14igAAAAJ&hl=en&oi=ao), [Duanshun Li](https://scholar.google.ca/citations?hl=en&user=RbDI3VUAAAAJ), and [Ivan Fair](http://www.ece.ualberta.ca/~fair/).
+Credit is also given to Tobias Gruber et al and their github repo https://github.com/gruberto/DL-ChannelDecoding, where this code repo is initially partly written based on theirs.
 
 Code and data will be available soon.
 
